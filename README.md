@@ -1,4 +1,4 @@
-# 👩🏻‍💻Brendo Costa
+# 👨‍💻Brendo Costa
 
 **`Desenvolvedor FullStack`**
 
